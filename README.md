@@ -1,4 +1,4 @@
-# Obsidian Confluence Sync Plugin
+# Confluence Sync Plugin
 
 A plugin to sync obsidian notes to confluence. The plugin is in a very early phase.
 

@@ -1,4 +1,3 @@
-import { create } from 'domain';
 import { App, Editor, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Setting, TFile, requestUrl } from 'obsidian';
 import {v4 as uuidv4} from 'uuid';
 

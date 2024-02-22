@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-confluence-sync",
-	"version": "1.0.0",
-	"description": "Obsidian Confluence Sync",
+	"name": "confluence-sync",
+	"version": "1.0.4",
+	"description": "Confluence Sync",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
