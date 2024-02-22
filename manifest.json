@@ -1,11 +1,10 @@
 {
 	"id": "obsidian-confluence-sync",
 	"name": "Obsidian Confluence Sync",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"minAppVersion": "0.15.0",
 	"description": "Demonstrates some of the capabilities of the Obsidian API.",
 	"author": "Prateek Grover",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "https://github.com/kerry",
 	"isDesktopOnly": false
 }
