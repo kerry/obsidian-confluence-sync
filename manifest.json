@@ -1,9 +1,9 @@
 {
 	"id": "confluence-sync",
 	"name": "Confluence Sync",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Sync Obsidian notes with Confluence",
 	"author": "Prateek Grover",
 	"authorUrl": "https://github.com/kerry",
 	"isDesktopOnly": false
