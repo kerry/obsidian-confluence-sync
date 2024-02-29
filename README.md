@@ -1,6 +1,6 @@
 # Confluence Sync Plugin
 
-A plugin to sync obsidian notes to confluence. The plugin is in a very early phase.
+A plugin to sync obsidian notes to [Confluence](https://www.atlassian.com/software/confluence). The plugin is in a very early phase.
 
 ## Steps to follow to enable sync
 
