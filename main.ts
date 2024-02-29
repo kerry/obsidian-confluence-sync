@@ -22,7 +22,7 @@ export default class ObsidianConfluenceSync extends Plugin {
 
 		this.addCommand({
 			id: 'sync-to-confluence',
-			name: 'Sync contents of current page to confluence',
+			name: 'Sync contents of current page to Confluence',
 			editorCallback: async (editor: Editor, view: MarkdownView) => {
 				const activeFile = this.app.workspace.getActiveFile();
 				if (!activeFile) {
@@ -46,7 +46,7 @@ export default class ObsidianConfluenceSync extends Plugin {
 
 		this.addCommand({
 			id: 'create-confluence-connection',
-			name: 'Create new confluence connection',
+			name: 'Create new Confluence connection',
 			callback: async () => {
 				new CreateNewConnectionModal(this.app, async (result) => {
 					const activeFile = this.app.workspace.getActiveFile();
