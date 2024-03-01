@@ -1,7 +1,7 @@
 {
 	"id": "confluence-sync",
 	"name": "Confluence Sync",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"minAppVersion": "0.15.0",
 	"description": "Sync Obsidian notes with Confluence",
 	"author": "Prateek Grover",

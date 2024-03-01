@@ -8,7 +8,7 @@ interface ObsidianConfluenceSyncSettings {
 }
 
 const DEFAULT_SETTINGS: ObsidianConfluenceSyncSettings = {
-	confluenceHost: 'https://confluence.com',
+	confluenceHost: "",
 	personalAccessToken: "",
 	mapping: {}
 }

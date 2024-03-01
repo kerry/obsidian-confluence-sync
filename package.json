@@ -1,6 +1,6 @@
 {
 	"name": "confluence-sync",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "Confluence Sync",
 	"main": "main.js",
 	"scripts": {
